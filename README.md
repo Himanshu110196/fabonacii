@@ -1,2 +1,0 @@
-# fabonacii
-the mathematical series
